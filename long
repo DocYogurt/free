@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://github.com/DocYogurt/free/raw/main/Protected%20(3).lua"))()
+loadstring(game:HttpGet("https://github.com/DocYogurt/free/raw/main/doors"))()
 --shabi lol ni zai kan shen me ????
